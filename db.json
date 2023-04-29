@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "homework  ",
+      "isCompleted": true,
+      "createdAt": "Jul 21 2020 1:23 PM",
+      "id": 1
+    },
+    {
+      "title": "Go to school ",
+      "isCompleted": true,
+      "createdAt": "Feb 12 2023 5:55 AM",
+      "id": 2
+    },
+    {
+      "title": "Do exercise",
+      "isCompleted": true,
+      "createdAt": "August 17 2022 7:11 PM",
+      "id": 3
+    },
+    {
+      "title": "Study chinese ",
+      "isCompleted": false,
+      "createdAt": "Dec 22 2023 8:44 AM",
+      "id": 4
+    },
+    {
+      "title": "Let go",
+      "isCompleted": false,
+      "createdAt": "April 29th 2023, 11:01 am",
+      "id": 6
+    }
+  ]
+}
